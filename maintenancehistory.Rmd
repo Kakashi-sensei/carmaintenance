@@ -1,0 +1,13 @@
+---
+title: "carmaintenance"
+author: "Tianqi(Tim)"
+date: "12/30/2021"
+output: html_document
+---
+
+```{r}
+
+camry2018 <- read.csv("https://raw.githubusercontent.com/Kakashi-sensei/carmaintenance/main/cardata.csv", header=TRUE)
+
+```
+
